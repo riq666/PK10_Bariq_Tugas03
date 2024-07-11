@@ -61,4 +61,4 @@ public class PK10_Tugas03_0624
             displayFactors(largeNumber);
         }
     }
-} //akhir kelaa
+} //akhir kelas
